@@ -1,2 +1,2 @@
 # auev-ready
-Electric vehicle EV ecosystem and community  
+Electric Vehicle Community  
